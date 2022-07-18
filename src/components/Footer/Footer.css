@@ -1,0 +1,26 @@
+.footer {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+.name {
+  font-size: 20px;
+  padding-bottom: 15px;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.iconContainer {
+  width: 150px;
+  height: 20px;
+  padding-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
