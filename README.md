@@ -1,4 +1,4 @@
-# word Hunt
+# Word Hunt
 
 ### It is a dictionary app made using react having both dark and light theme and supports 12 languages .
 
